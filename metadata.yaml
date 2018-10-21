@@ -1,5 +1,5 @@
 _repo: Strates-Amoureuses-Poesie_4567
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,5 +23,6 @@ rights_url: ''
 subjects:
 - !lcsh 'Poetry'
 - !lcc 'PQ'
+- GITenberg
 title: 'Strates Amoureuses: Poésie'
 url: http://www.gutenberg.org/ebooks/4567
